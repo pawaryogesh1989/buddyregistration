@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: pawaryogesh1989
+Contributors: pawaryogesh1989, clarionwpdeveloper
 Tags: Buddypress registration, widget
 Requires at least: 3.0.1
 Tested up to: 4.4.2
