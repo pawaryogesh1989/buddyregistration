@@ -8,7 +8,7 @@ Plugin Name: Buddy Registration widget
 Plugin URI: http://clariontechnologies.co.in
 Description: Buddy Registration
 Version: 1.0.0
-Author: Clarion, pawaryogesh1989
+Author: Yogesh Pawar
 Author URI: http://clariontechnologies.co.in
 License: GPLv2 or later
 Text Domain: Buddy Registration widget
