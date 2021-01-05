@@ -1,8 +1,8 @@
 === BuddyPress Registration Widget ===
 Contributors: pawaryogesh1989, clarionwpdeveloper
 Tags: Buddypress registration, widget, buddypress widget, buddypress registration form widget, buddypress registration, buddypress registration form, buddypress form, disable buddypress cover image, buddypress registration shortcode, shortcode, buddypress custom registration templates, buddypress widget
-Requires at least: 4.6 or higher
-Tested up to: 5.2.4
+Requires at least: 5.0 or higher
+Tested up to: 5.6
 Stable tag: 5.0
 PHP Version: 5.6 or higher
 License: GPLv2 or later
@@ -32,6 +32,9 @@ Now, the registration form can also be displayed on any page using just a shortc
 1. screenshot-1 - Configurable options in backend.
 
 == Changelog ==
+
+= 2.1.2 =
+* Minor fixes for compatibility with latest version of WordPress
 
 = 2.1.0 =
 * Minor fixes for compatibility with PHP 7.3 and latest version of WordPress

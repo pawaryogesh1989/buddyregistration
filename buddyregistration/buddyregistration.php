@@ -3,7 +3,7 @@
   Plugin Name: BuddyPress Registration widget
   Plugin URI: http://clariontechnologies.co.in
   Description: BuddyPress Registration form widget
-  Version: 2.1.0
+  Version: 2.1.2
   Author: Yogesh Pawar, clarionwpdeveloper
   Author URI: http://clariontechnologies.co.in
   License: GPLv2 or later

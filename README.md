@@ -16,3 +16,15 @@ Now, the registration form can also be displayed on any page using just a shortc
 * Option to remove the "Activity Tab" from the user profile.
 * Option to use custom template to modified form fields/layout to display form in Sidebar.
 * Option to use custom template to modified form fields/layout to display form on any page using shortcode.
+
+
+## Changes
+
+* Added new screen in backend with configurable options.
+* Added shortcode "[buddyRegisterFormCode]" to display the registration form on any page.
+* Added option to disable member/user cover image.
+* Added option to disable group cover image.
+* Added option to disable validation of "Profile Image".
+* Added option to remove the "Activity Tab" from the user profile.
+* Added option to use custom template to modified form fields/layout to display form in Sidebar.
+* Added option to use custom template to modified form fields/layout to display form on any page using shortcode.
